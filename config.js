@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Cậu thích tớ có phải không nào?",
     introTitle: 'He luu cậu!',
-    introDesc: `Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.,
+    introDesc: `Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.',
     btnIntro: 'OK',
     title: 'Cậu thích tớ có phải không nào?',
     desc: 'Nếu cậu ko trả lời mà thoát ra tức là muốn làm ny tớ rùi đó nha :v',
